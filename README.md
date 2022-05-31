@@ -1,4 +1,4 @@
-# top
+# top:
 # ps:
 # jobs:
 # kill:
